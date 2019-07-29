@@ -1,7 +1,7 @@
 HomeSeer Plugin: Hubitat Elevation
-========
+==================================
 
-Mirror your Hubitat Elevation devices to your HomeSeer 3 home automation server.
+Mirror your Hubitat Elevation devices to your HomeSeer home automation server.
 
 Features
 --------
