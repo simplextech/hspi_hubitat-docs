@@ -56,7 +56,7 @@ If you are having issues, please let us know.
 `HomeSeer Hubitat Elevation Forum <https://forums.homeseer.com/forum/lighting-primary-technology-plug-ins/lighting-primary-technology-discussion/hubitat-elevation-simplex-technology>`_
 
 Use Cases and Awesome Stuff
----------------------------
+===========================
 
 HubConnect
 ----------
