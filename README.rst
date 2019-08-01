@@ -1,7 +1,15 @@
 HomeSeer Plugin: Hubitat Elevation
 ==================================
 
-Mirror your Hubitat Elevation devices to your HomeSeer home automation server.
+Introduction
+------------
+
+This plugin mirrors your Hubitat Elevation devices to your HomeSeer home automation server.  This capability
+allows you to include any of your Hubitat devices into HomeSeer events for status or control operations.  Bring
+new ZigBee, Z-Wave or other devices from Hubitat that HomeSeer does not support.
+
+`Hubitat Documentation <https://docs.hubitat.com/index.php?title=Hubitat_Elevation_Documentation>`_
+
 
 Features
 --------
@@ -10,9 +18,11 @@ Features
 - ZigBee Devices
 - Lutron Radio RA2 / Caseta Pro 
 - Philips Hue bridge
-- LiFX
-- TP-Link SmartPlugs (Limited support)
-- More device support coming...
+- `LiFX <https://github.com/robheyes/lifxcode>`_
+- `TP-Link SmartPlugs <https://github.com/DaveGut/Hubitat-TP-Link-Integration>`_ (Limited support)
+- More devices and app support coming...
+
+  - `Hubitat Community on GitHub <https://github.com/HubitatCommunity>`_
 
 Installation
 ------------
